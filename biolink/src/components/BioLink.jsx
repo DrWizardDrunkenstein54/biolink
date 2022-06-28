@@ -10,6 +10,7 @@ function BioLink() {
             <NavBar />
             <Home />
             <Features />
+            <ProblemStatement />
         </div>
     );
 }

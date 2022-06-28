@@ -1,10 +1,10 @@
 import React from 'react';
-import '../App.css';
+import Card from 'react-bootstrap/Card';
 
 function ProblemStatement() {
     return (
-        <div className='ProblemStatement'>
-
+        <div id="problem-statement" className="colored-section">
+            
         </div>
     );
 }
