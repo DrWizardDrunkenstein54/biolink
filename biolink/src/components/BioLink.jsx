@@ -8,7 +8,6 @@ function BioLink() {
         <div className="BioLink">
             <NavBar />
             <Home />
-            <ProblemStatement />
         </div>
     );
 }

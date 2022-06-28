@@ -1,0 +1,91 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    overflow: visible;
+    overflow-x: hidden; 
+}
+
+.colored-section {
+  background-color: black;
+}
+
+.white-section {
+  background-color: white;
+}
+
+#home {
+    overflow-y: hidden;
+}
+
+
+/* NAVBAR SECTION START */
+
+.navbar-logo {
+    height: 90px;
+    width: 90px;
+}
+
+a {
+    color: #fff;
+    position: relative;;
+    text-decoration: none;
+}
+
+a:after {
+    content: "";
+    position: absolute;
+    background-color: white;
+    height: 3px;
+    width: 0;
+    left: 0px;
+    bottom: -10px;
+    transition: 0.5s;
+}
+  
+a:hover {
+    color: white;
+}
+  
+.normal-item {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 1.3rem;
+}
+  
+.normal-item:hover:after {
+    width: 100%;
+}
+
+/* NAVBAR SECTION END */
+
+/* HOME SECTION START */
+
+.mission-text {
+    padding-top: 100px;
+    margin-bottom: 150px;
+}
+
+.virus-icon {
+    position: relative;
+    bottom: 250px;
+    left: -250px;
+    animation: rotation infinite 30s linear;
+}
+
+@keyframes rotation{
+    from{
+      transform:rotate(0deg) scale(0.5);
+    }
+  
+    to{
+      transform:rotate(360deg) scale(0.5);
+    
+    }
+}
+
+.third-slide-text {
+    position: relative;
+    bottom: 475px;
+    left: 278px;
+}
+
+/* HOME SECTION END */
