@@ -1,6 +1,7 @@
 import React from "react";
 import NavBar from './NavBar';
 import Home from './Home';
+import Features from './Features';
 import ProblemStatement from './ProblemStatement';
 
 function BioLink() {
@@ -8,6 +9,7 @@ function BioLink() {
         <div className="BioLink">
             <NavBar />
             <Home />
+            <Features />
         </div>
     );
 }
