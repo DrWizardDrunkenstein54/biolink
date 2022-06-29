@@ -17,11 +17,6 @@ html, body {
     overflow-y: hidden;
 }
 
-#problem-statement {
-    height: 1200px;
-}
-
-
 /* NAVBAR SECTION START */
 
 .navbar-logo {
@@ -102,3 +97,15 @@ a:hover {
 }
 
 /* FEATURES SECTION END */
+
+/* PROBLEM STATEMENT START */
+
+#main-problem {
+    height: 320px;
+}
+
+#problem-statistics {
+    height: 650px;
+}
+
+/* PROBLEM STATEMENT END */
