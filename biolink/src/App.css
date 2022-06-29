@@ -17,6 +17,10 @@ html, body {
     overflow-y: hidden;
 }
 
+.our-team-section {
+    height: 1600px;
+}
+
 /* NAVBAR SECTION START */
 
 .navbar-logo {
@@ -89,15 +93,6 @@ a:hover {
 
 /* HOME SECTION END */
 
-/* FEATURES SECTION START */
-
-.statistics-icon {
-    color: red;
-    
-}
-
-/* FEATURES SECTION END */
-
 /* PROBLEM STATEMENT START */
 
 #main-problem {
@@ -109,3 +104,19 @@ a:hover {
 }
 
 /* PROBLEM STATEMENT END */
+
+/* OUR TEAM START */
+
+
+
+.our-team-title {
+    font-family: 'Gloria Hallelujah', cursive;
+    position: absolute;
+    color: white;
+    font-size: 4rem;
+    padding-top: 50px;
+    left: 40%;
+
+}
+
+/* OUR TEAM END */

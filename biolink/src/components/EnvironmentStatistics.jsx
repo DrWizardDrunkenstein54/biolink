@@ -22,7 +22,6 @@ function EnvironmentStatistics() {
                         are generated can decrease overtime.
                     </Card.Text>
                 </Card.Body>
-            
             </Card>
             <Card style={{ width: '50%', maxHeight: "750px", right: "7px", backgroundColor: '#d85b53', color: "white" }} className="border-0">
                 <Card.Img variant="top" src="calculus.png" style={{ maxHeight: "45em", maxWidth: "35em", position: "relative", top: "12px", right: "20px"  }}/>
