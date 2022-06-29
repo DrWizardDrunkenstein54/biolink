@@ -9,9 +9,9 @@ function Home() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="virus.jpg"
+                        src="sea.png"
                         alt="First slide"
-                        style={{ maxHeight: "700px", minWidth: "auto", objectFit: "none" }}
+                        style={{ maxHeight: "700px", minWidth: "auto", objectFit: "none", filter: "saturate(1.5)" }}
                     />
                     <Carousel.Caption style={{ color: "white", fontFamily: "Gloria Hallelujah, cursive" }}>
                         <h3 style={{fontSize:"4em"}}>Our Mission</h3>
