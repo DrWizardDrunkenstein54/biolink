@@ -41,6 +41,12 @@ html, body {
     filter: saturate(0.6);
 }
 
+#contribution-section {
+    height: 400px;
+    position: relative;
+    top: -120px;
+}
+
 .our-team-section {
     height: 1600px;
 }
