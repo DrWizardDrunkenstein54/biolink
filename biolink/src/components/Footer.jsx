@@ -7,7 +7,7 @@ import { MdEmail } from "react-icons/md";
 
 function Footer() {
     return (
-        <div id="footer" className="pb-4">
+        <div id="footer" className="pb-4" style={{position: "relative", marginTop: "-220px"}}>
             <div className="d-flex flex-column align-items-center">
                 <div className="m-1" style={{ color: "#FFF", fontFamily: "Gloria Hallelujah, cursive", fontSize: "4rem"}}>
                     BioLink

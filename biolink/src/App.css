@@ -47,8 +47,16 @@ html, body {
     top: -120px;
 }
 
+#event-section {
+    position: relative;
+    top: -170px;
+
+}
+
 .our-team-section {
     height: 1600px;
+    position: relative;
+    top: -218px;
 }
 
 #footer {
