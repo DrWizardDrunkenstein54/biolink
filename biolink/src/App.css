@@ -53,6 +53,12 @@ html, body {
 
 }
 
+#schedule {
+    position: relative;
+    top: -200px;
+    height: 1100px;
+}
+
 .our-team-section {
     height: 1600px;
     position: relative;
@@ -184,6 +190,10 @@ a:hover {
     font-size: 4rem;
     padding-top: 50px;
     left: 40%;
+}
+
+.portrait-picture {
+    border-radius: 50%;
 }
 
 /* OUR TEAM END */
