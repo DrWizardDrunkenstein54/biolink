@@ -15,10 +15,10 @@ function Solution3() {
                         masks. The two main avenues of mask 
                         innovation are biodegradable masks and 
                         reusable masks. A team of researchers in 
-                        MIT has recently developed a reusable 
-                        silicone mask that can be disinfected and 
+                        MIT has recently developed a <u><a style={{color: "black"}} href="https://news.mit.edu/2020/reusable-silicone-rubber-face-mask-0709">reusable silicone </a></u>
+                        mask that can be disinfected and 
                         worn repetitively by different individuals, 
-                        while several companies have experimented with 
+                        while <u><a style={{color: "black"}} href="https://www.bloomberg.com/news/articles/2021-12-22/making-green-disposable-face-masks-that-won-t-become-ocean-plastic"> several companies </a></u> have experimented with 
                         biodegradable masks made of natural materials 
                         that can be broken down within a few months after use.
                     </Card.Text>

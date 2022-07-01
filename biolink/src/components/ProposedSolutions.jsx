@@ -5,7 +5,7 @@ import Solution3 from "./Solution3";
 
 function ProposedSolutions() {
     return (
-        <div>
+        <div id="proposed-solutions">
             <Solution1 />
             <Solution2 />
             <Solution3 />

@@ -5,7 +5,7 @@ import Card from "react-bootstrap/Card";
 function YourContribution() {
     return (
         <div id="contribution-section" className="colored-section d-flex justify-content-around flex-wrap w-100 p-3 my-5">
-            <Card style={{ width: '60rem', maxHeight: '320px', paddingTop: "50px", backgroundColor: "black", color: "white" }} className="border-0">
+            <Card style={{ width: '60rem', maxHeight: '320px', paddingTop: "20px", backgroundColor: "rgba(256, 256, 256, 0.6)", color: "black", top: "30px" }} className="border-0">
                 <Card.Body className="d-flex flex-column align-items-center">
                     <Card.Title style={{ fontFamily: "Gloria Hallelujah, cursive", fontSize: "4em" }}> Your Contribution </Card.Title>
                     <Card.Text style={{ fontFamily: "Open Sans, sans-serif", textAlign: "center", fontSize: "1.2rem", paddingTop: "20px" }}>

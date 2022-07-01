@@ -16,10 +16,10 @@ function NavBar() {
                 <div className="">
                     <Nav className="me-auto d-flex justify-content-between align-items-center">
                         <a href="#" class="normal-item p-1 mx-3">Home</a>
-                        <a href="#" class="normal-item p-1 mx-3">Problem Statement</a>
-                        <a href="#" class="normal-item p-1 mx-3">Proposed Solutions</a>
-                        <a href="#" class="normal-item p-1">Your Contribution</a>
-                        <a href="#" class="normal-item p-1 mx-3">Our Team</a>
+                        <a href="#main-problem" class="normal-item p-1 mx-3">Problem Statement</a>
+                        <a href="#proposed-solutions" class="normal-item p-1 mx-3">Proposed Solutions</a>
+                        <a href="#contribution-section" class="normal-item p-1">Your Contribution</a>
+                        <a href="#our-team" class="normal-item p-1 mx-3">Our Team</a>
                     </Nav>
                 </div>
 	        </NavbarReact>

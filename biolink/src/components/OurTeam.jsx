@@ -5,7 +5,7 @@ import OurTeamP2 from "./OurTeamP2";
 
 function OurTeam() {
     return (
-        <div id="" style={{display: "flex", width: "100%"}} className="our-team-section colored-section">
+        <div id="our-team" style={{display: "flex", width: "100%"}} className="our-team-section colored-section">
             <h1 className="our-team-title">Our Team</h1>
             <OurTeamP1 />
             <OurTeamP2 />

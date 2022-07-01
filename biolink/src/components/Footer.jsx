@@ -19,7 +19,8 @@ function Footer() {
                     <MdEmail className="mx-1" size={"2em"} style={{ color: "white" }} />
                 </div>
                 <div className="mt-3" style={{ color: "#FFF", fontFamily: "Gloria Hallelujah, cursive", fontSize: "1.5rem" }}>
-                    &copy;2022 Not all rights reserved
+                    &copy;2022 Not all rights reserved <br /> 
+                    <center>Developed by Brian Da Cruz</center>
                 </div>
             </div>
         </div>
