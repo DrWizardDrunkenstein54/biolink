@@ -4,11 +4,11 @@ import Card from "react-bootstrap/Card";
 function Solution3() {
     return (
         <div id="solution-three">
-            <img className="person-image" src="person.jpg" />
-            <Card style={{ width: '40rem', position: "relative", left: "770px", top: "-500px", backgroundColor: "rgba(255, 255, 255, 0.8)", color: "black" }} className="border-0">
+            <img className="person-image" src="mask2.png" />
+            <Card style={{ width: '40rem', position: "relative", left: "770px", top: "-700px", backgroundColor: "rgba(255, 255, 255, 0.8)", color: "black" }} className="border-0">
                 <Card.Body className="d-flex flex-column align-items-center">
                     <Card.Title style={{ fontFamily: "Gloria Hallelujah, cursive", fontSize: "4.2em" }}>3. Sustainable Mask Technology </Card.Title>
-                    <Card.Text style={{ fontFamily: "Open Sans, sans-serif", textAlign: "center", paddingTop: "20px" }}>
+                    <Card.Text style={{ fontFamily: "Open Sans, sans-serif", textAlign: "center", paddingBottom: "20px" }}>
                         Innovations in technology are our 
                         most powerful tool to mitigate the 
                         plastic pollution caused by left-behind 

@@ -177,14 +177,16 @@ a:hover {
     right: -850px;
     top: 50px;
     border-radius: 50%;
+    filter: saturate(1.5);
 }
 
 .person-image {
     position: relative;
-    right: -100px;
-    top: -10px;
+    left: -20px;
+    bottom: 110px;
     border-radius: 50%;
-    transform: scale(0.8);
+    transform: scale(0.6);
+    filter: saturate(1.5);
 }
 
 
